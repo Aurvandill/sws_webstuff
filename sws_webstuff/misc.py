@@ -1,4 +1,6 @@
-
+from .alert_class import Alert
+from .redirect_class import Redirect
+from .modal_class import Modal
 
 def get_json_from_args(*args):
     temp_dict = {}

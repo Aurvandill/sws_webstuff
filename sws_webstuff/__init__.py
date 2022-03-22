@@ -4,3 +4,4 @@ from .modal_class import Modal
 from .alert_class import Alert
 from .misc import *
 from ._version import __version__
+from .redirect_class import Redirect
