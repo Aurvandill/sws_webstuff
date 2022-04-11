@@ -33,6 +33,11 @@ class LangEng(LangDict):
     already_logged_in = "you are logged in already"
     not_logged_in = "not logged in!"
     changes_success = "Changes successfull"
+    missing_rights = "you are not permitted to do this"
+    change_successfull = "updated Object successfully"
+    change_failed = "updating object failed"
+    delete_success = "Deletion successfull"
+    delete_failed = "Deletion failed"
 
     #avatar related msgs
     avatar_size_error = "Supplied avatar is to large"

@@ -33,6 +33,11 @@ class LangGer(LangDict):
     already_logged_in = "Du bist bereits eingeloggt."
     not_logged_in = "Du bist nicht eingeloggt."
     changes_success = "Änderungen erfolgreich übernommen"
+    missing_rights = "Du hast dafür keine Rechte"
+    change_successfull = "Änderung erfolgreich"
+    change_failed = "Änderung fehlgeschlagen"
+    delete_success = "Löschung erfolgreich"
+    delete_failed = "Löschung fehlgeschlagen"
 
     #avatar related msgs
     avatar_size_error = "Avatar ist zu groß"
